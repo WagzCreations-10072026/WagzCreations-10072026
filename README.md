@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Sir, you will need to upload your custom banner image to your repository and replace the link below with your actual image URL -->
-  <img src="YOUR_BANNER_IMAGE_URL.png" alt="Wagz Banner" width="100%" />
+  <img src="https://github.com/WagzCreations-10072026/WagzCreations-10072026/blob/main/Wagz%20Creations%20Digital%20Marketing%20Logo.png" alt="Wagz Banner" width="100%" />
 
   <h1>Matt Wagz <span style="color:#E83B3B;"></span></h1>
   <p><b>Digital Strategist, Hip-Hop Artist, Cybersecurity Student</b></p>
