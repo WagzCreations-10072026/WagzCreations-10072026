@@ -43,8 +43,8 @@
     <td width="33%" valign="top" align="center" style="border: 2px solid #E83B3B; border-radius: 10px;">
       <h3 style="color:#E83B3B;">📬 Get in Touch</h3>
       <ul align="left" style="list-style-type:none;">
-        <li>📞 <span style="color:#E83B3B;">18662720349</span></li>
-        <li>✉️ <span style="color:#E83B3B;">wagz@creations.com</span></li>
+        <li>📞 <span style="color:#E83B3B;">(747)367-1710</span></li>
+        <li>✉️ <span style="color:#E83B3B;">wagzcreations.digitalmarketing@gmail.com</span></li>
       </ul>
       <br/>
       <!-- Sir, replace the '#' below with the actual links to your social profiles -->
